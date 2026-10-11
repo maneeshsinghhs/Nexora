@@ -1,0 +1,10 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 2,
+  "settings": {
+    "layout": {"contentSize": "780px", "wideSize": "1100px"},
+    "color": {"palette": [{"slug":"navy","color":"#102b32","name":"Navy"},{"slug":"teal","color":"#087f75","name":"Teal"},{"slug":"cream","color":"#f6f8f5","name":"Cream"},{"slug":"white","color":"#ffffff","name":"White"}]},
+    "typography": {"fluid": true},
+    "spacing": {"units": ["px","rem","%","vw"]}
+  }
+}
